@@ -1,5 +1,5 @@
 # Weather-GUI
 
-Weather API
+Weather API from https://openweathermap.org/current
 
 Tkinter GUI
